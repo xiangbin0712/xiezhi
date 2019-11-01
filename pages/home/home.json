@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "c-category-grid": "/components/category-grid/index"
+  }
+}

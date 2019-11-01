@@ -1,0 +1,9 @@
+<view class="container">
+    <l-grid l-class="grid" row-num="4" show-col-border="{{true}}">
+        <l-grid-item wx:for="{{grids2}}" wx:key="{{index}}" key="{{index}}" slot="{{index}}">
+            <!-- <image src="" /> -->
+            123
+            <text>123</text>
+        </l-grid-item>
+    </l-grid>
+</view>

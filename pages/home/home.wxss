@@ -1,0 +1,7 @@
+/* pages/home/home.wxss */
+.locationA {
+    height: 260rpx;
+}
+swiper {
+    height: 360rpx;
+}
